@@ -1,3 +1,5 @@
+google sxrom-j.bz2
+
 $ mkdir -p ~/.hp48
 $ cp ./sxrom-j.bz2 ~/.hp48
 $ cd ~/.hp48
