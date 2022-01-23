@@ -1,3 +1,9 @@
+######################################################
+Package created by Sergio Melas  (sergiomelas@gmail.com)
+No other contribution from me
+Thx to Berlioz and wyatt for creating this
+######################################################
+
 download hp calculator rom rom from www.hpcalc.org
 then (sx example)
 $ wget https://www.hpcalc.org/hp48/pc/emulators/sxrom-j.zip
