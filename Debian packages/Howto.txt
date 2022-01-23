@@ -1,8 +1,8 @@
-######################################################
-Package created by Sergio Melas  (sergiomelas@gmail.com)
-No other contribution from me
+###################################################################
+Debian Package created by Sergio Melas  (sergiomelas@gmail.com)
+No other contribution from me exept installtion imstruction below
 Thx to Berlioz and wyatt for creating this
-######################################################
+##############################################################%%%##
 
 download hp calculator rom rom from www.hpcalc.org
 then (sx example)
@@ -22,4 +22,4 @@ Aswer no to clear memory
 Close
 Done!
 
-Run x48 from the icon and clear memory
+Run x48 from the icon 
