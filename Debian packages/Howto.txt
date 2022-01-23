@@ -12,7 +12,8 @@ finally you need to initialize x48:
 $ x48 -initialize
 close x48, this will create the ram and rom images
 $ X48 
-Clear memory
+Aswer no to clear memory
+Close
 Done!
 
 Run x48 from the icon and clear memory
