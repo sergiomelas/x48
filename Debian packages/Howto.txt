@@ -7,3 +7,5 @@ $ ln -s rom rom.dump
 finally you need to initialize x48:
 
 $ cd ~/.hp48 && x48 -initialize
+
+Run x48 from the icon and clear memory
