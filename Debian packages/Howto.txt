@@ -1,8 +1,8 @@
-download sx rom from:
-https://www.hpcalc.org/hp48/pc/emulators/sxrom-j.zip
-
+download hp calculator rom rom from www.hpcalc.org
+then (sx example)
+$ wget https://www.hpcalc.org/hp48/pc/emulators/sxrom-j.zip
 $ mkdir -p ~/.hp48
-$ cp ./sxrom-j.bz2 ~/.hp48
+$ cp ./sxrom-j.zip ~/.hp48
 $ cd ~/.hp48
 $ bunzip2 sxrom-j.zip
 $ mv sxrom-j rom
