@@ -1,7 +1,7 @@
 ###################################################################
 Debian Package created by Sergio Melas  (sergiomelas@gmail.com)
 No other contribution from me exept installtion imstruction below
-Thx to Berlioz and wyatt for creating this
+Thx to Berlios and Wyatt8740 for creating this
 ##############################################################%%%##
 
 download hp calculator rom rom from www.hpcalc.org
