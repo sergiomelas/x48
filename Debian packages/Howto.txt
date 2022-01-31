@@ -23,3 +23,9 @@ Close
 Done!
 
 Run x48 from the icon 
+
+Note in PI arm64 if you get the font helvetica error plese do
+sudo apt-get purge xfonts-base
+sudo apt-get install xfonts-base
+Thx to Renate Schwiedernoch (reni001) for the PI package
+
