@@ -1,6 +1,7 @@
 ###################################################################
-Debian Package created by Sergio Melas  (sergiomelas@gmail.com)
-No other contribution from me exept installtion imstruction below
+Debian Packages created by Sergio Melas 
+Pi version by Renate Schwiedernoch
+No other contribution installation instruction below
 Thx to Berlios and Wyatt8740 for creating this
 ##############################################################%%%##
 
@@ -27,5 +28,5 @@ Run x48 from the icon
 Note in PI arm64 if you get the font helvetica error plese do
 sudo apt-get purge xfonts-base
 sudo apt-get install xfonts-base
-Thx to Renate Schwiedernoch (reni001) for the PI package
+
 
